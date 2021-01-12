@@ -8,4 +8,5 @@ Hello everyone, I decided to do something to learn more in 2021 and I created th
 ### January 2021
 
 [11 January 2021](https://kahyalar.xyz/til-11-01-2021)
+[12 January 2021](https://kahyalar.xyz/til-12-01-2021)
 
